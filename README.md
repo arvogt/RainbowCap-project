@@ -1,7 +1,7 @@
 # RainbowCap-project
 Dear user,
 
-Welcome to the RainbowCap-project. This project developed a spectral illumination plate for photobiological and optogenetic experiments in 96-Well Microplates. This resporatory contains supporting files with protocols for microcontroller (sketches) and 3D print files. For further details please see the publication or contact us directly.
+Welcome to the RainbowCap-project. This project developed a spectral illumination plate for photobiological and optogenetic experiments in 96-Well Microplates. This resporatory contains supporting files with protocols for microcontroller (sketches) and 3D print files. An 3D-overview of the overall setup connected to an microplate reader is also attached. For further details please see the publication or contact us directly.
 
 ## Protocols for microcontroller
 The sketch-files for microcontrollers are only exemplary and should give an impression. Of course, the pin assignment and the illumination times depend on the respective experiments. We provide following files:
