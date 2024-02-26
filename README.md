@@ -14,3 +14,7 @@ The print files were originally created with the "3D Builder" software (Microsof
 1. "LED-plate": This plate can be used as a part of the whole RainbowCap system, but can also be used as a universal plate for very simple LED experiments.
 2. "filter-plate": This plate is used as a holder for the optical filters and can only be used in combination with the LED plate.
 3. "adapter": This component connects the LED-plate with the spectroradiometer (CSS-45, Gigahertz-Optik GmbH, Germany) for calibrations.
+
+
+## Circuit plans
+Breadboard diagram and the circuit diagram of the illumination setup are attached. The credits go to Raik Paulat.
