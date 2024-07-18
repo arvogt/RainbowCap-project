@@ -18,3 +18,6 @@ The print files were originally created with the "3D Builder" software (Microsof
 
 ## Circuit plans
 Breadboard diagram and the circuit diagram of the illumination setup are attached. The credits go to Raik Paulat.
+
+## Analysis
+Further information on how to analyse the data with an added example can be found [here](https://github.com/danielparthier/Vogt-et-al-2024).
